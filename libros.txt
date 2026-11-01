@@ -1,0 +1,10 @@
+301;Harry Potter y la piedra filosofal;Fantasia;Rowling;4
+302;El señor de los anillos;Fantasia;Tolkien;3
+303;Los juegos del hambre;Ciencia ficcion;Collins;5
+304;El principito;Aventura;Saint-Exupery;2
+305;Bajo la misma estrella;Romance;Green;6
+306;El codigo Da Vinci;Misterio;Brown;3
+307;Crepusculo;Romance;Meyer;7
+308;Dune;Ciencia ficcion;Herbert;4
+309;La chica del tren;Suspenso;Hawkins;2
+310;It;Terror;King;5
